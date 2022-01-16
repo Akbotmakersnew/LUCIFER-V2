@@ -8,8 +8,8 @@
 
   </a>
   
-  <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/fork">
-    <img src="https://img.shields.io/github/forks/MoTechYT/Pro-Auto-Filter-Bot-V2?label=Fork&style=social">
+  <a href="https://github.com/Akbotmakersnew/LUCIFER-V2/fork">
+    <img src="https://img.shields.io/github/forks/Akbotmakersnew/LUCIFER-V2?label=Fork&style=social">
 
   </a>  
 </p>
@@ -22,7 +22,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Akbotmakersnew/LUCIFER-V2/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -31,8 +31,8 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/tree/blob/main
-cd Pro-Auto-Filter-Bot-V2-ReMaster
+git clone https://github.com/Akbotmakersnew/LUCIFER-V2/tree/blob/main
+cd LUCIFER-V2-ReMaster
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
 python3 -m bot
