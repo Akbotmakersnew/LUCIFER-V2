@@ -60,6 +60,10 @@
         "SUPPORT_CHAT": {
             "description": "Without @ and don't use id",
             "value": ""
+        },
+        "ADMINS": {
+            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "value": ""
         }
     },
     "buildpacks": [
