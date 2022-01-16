@@ -56,6 +56,10 @@
         "USER_SESSION": {
             "description": "A Pyrogram User Session String. Generated From @MT_UserSession_BoT",
             "value": ""
+        },
+        "SUPPORT_CHAT": {
+            "description": "Without @ and don't use id"
+            "value": ""
         }
     },
     "buildpacks": [
