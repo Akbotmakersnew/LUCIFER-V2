@@ -1,17 +1,17 @@
 {
-    "name": "Pro Auto Filter Bot V2",
-    "description": "Pro Auto Filter BoT V2 MoTect MRK_YT",
-    "logo": "https://telegra.ph/file/9e831d15da94deb56ef4c.png",
+    "name": "LUCIFER-V2",
+    "description": "An Advanced Auto Filter BoT V2",
+    "logo": "https://telegra.ph/file/7056d413f38f54f2119d7.jpg",
     "keywords": [
-        "Pro",
+        "An",
         "Auto",
         "Filter",
         "Bot",
         "V2"
     ],
-    "website": "https://github.com/MRK-YT",
-    "repository": "https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/mo_tech_yt",
+    "website": "https://github.com/Akbotmakersnew",
+    "repository": "https://github.com/MoTechYT/LUCIFER-V2",
+    "success_url": "https://telegram.dog/IAM_A_JOKER",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
